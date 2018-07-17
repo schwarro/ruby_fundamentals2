@@ -1,4 +1,4 @@
-def negative? (num)
+def negative?(num)
   if num < 0
     return true
   elsif num >= 0
